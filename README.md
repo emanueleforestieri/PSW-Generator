@@ -2,4 +2,6 @@
 
 Simple random password generator with thread by a mix of string 
 
-CHANGELOG: doc/CHANGELOG.md
+Updates: [GitHub] (https://github.com/emanueleforestieri/PSW-Generator/)
+
+Donations: [Paypal] (https://www.paypal.me/emanueleforestieri)
