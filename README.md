@@ -12,5 +12,6 @@ Simple random password generator with thread by a mix of string
 the software takes from stdin some string, then returns password on stdout and errors on stderr.
 
 ## Update/Support ##
+ 
  * [GitHub] (https://github.com/emanueleforestieri/PSW-Generator/)
- * [Paypal] (https://www.paypal.me/emanueleforestieri)
+ * [PayPal] (https://www.paypal.me/emanueleforestieri)
