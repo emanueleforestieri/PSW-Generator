@@ -1,7 +1,7 @@
 
 /**
  * @author Emanuele Forestieri
- * @version 0.1.0 [01/05/2016]
+ * @version 0.2.0 [15/05/2016]
  */
 
 public class PSWGen {
@@ -14,11 +14,9 @@ public class PSWGen {
 		} 
 		
 		System.out.print("[+] Password: ");
-		Generator g[] = new Generator[args.length];
 		
 		for(byte i = 0; i < args.length; i++) {
-			g[i] = new Generator(args[i]);
-			g[i].start();
+			new Generator(args[i]).start();
 		}	
 	}
 }
