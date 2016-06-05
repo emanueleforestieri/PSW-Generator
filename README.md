@@ -2,7 +2,7 @@
 
 Simple random password generator with thread by a mix of string 
 
-## Compilation ##
+## Compilation/Execution ##
 
  * javac PSWGen.java
  * java PSWGen [Strings]
